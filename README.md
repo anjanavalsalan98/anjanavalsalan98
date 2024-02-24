@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @anjanavalsalan98
 - 👀 I have a wide array of interests:
-  -🤖 Space Robotics
-  -🚀 Orbital Mechanics
-  -🌐 Web Development
-  -💻 Machine Learning
+- 🤖 Space Robotics
+- 🚀 Orbital Mechanics
+- 🌐 Web Development
+- 💻 Machine Learning
 - 🌱 I’m currently working on Aerospace Engineering courses for my Masters Program!
 
 <!---
